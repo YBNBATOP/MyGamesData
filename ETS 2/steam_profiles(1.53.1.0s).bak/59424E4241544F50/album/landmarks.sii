@@ -1,0 +1,319 @@
+SiiNunit
+{
+album_landmarks_info : _nameless.1ac.4790.8a20 {
+ landmarks: 52
+ landmarks[0]: _nameless.1ac.4790.8360
+ landmarks[1]: _nameless.1ac.4790.89e0
+ landmarks[2]: _nameless.1ac.4790.83a0
+ landmarks[3]: _nameless.1ac.4790.8660
+ landmarks[4]: _nameless.1ac.4790.85e0
+ landmarks[5]: _nameless.1ac.4790.8960
+ landmarks[6]: _nameless.1ac.4790.8b60
+ landmarks[7]: _nameless.1ac.4790.8a60
+ landmarks[8]: _nameless.1ac.4790.83e0
+ landmarks[9]: _nameless.1ac.4790.8560
+ landmarks[10]: _nameless.1ac.4790.86a0
+ landmarks[11]: _nameless.1ac.4790.86e0
+ landmarks[12]: _nameless.1ac.4790.89a0
+ landmarks[13]: _nameless.1ac.4790.8720
+ landmarks[14]: _nameless.1ac.4790.87a0
+ landmarks[15]: _nameless.1ac.4081.7320
+ landmarks[16]: _nameless.1ac.4081.73e0
+ landmarks[17]: _nameless.1ac.4081.7420
+ landmarks[18]: _nameless.1ac.4081.7460
+ landmarks[19]: _nameless.1ac.4081.74a0
+ landmarks[20]: _nameless.1ac.4081.74e0
+ landmarks[21]: _nameless.1ac.4081.7660
+ landmarks[22]: _nameless.1ac.4081.78a0
+ landmarks[23]: _nameless.1ac.4081.7760
+ landmarks[24]: _nameless.1ac.4081.78e0
+ landmarks[25]: _nameless.1ac.4081.8920
+ landmarks[26]: _nameless.1ac.4081.82a0
+ landmarks[27]: _nameless.1ac.4081.7f60
+ landmarks[28]: _nameless.1ac.4081.8120
+ landmarks[29]: _nameless.1ac.4081.8b20
+ landmarks[30]: _nameless.1ac.4081.87a0
+ landmarks[31]: _nameless.1ac.4081.8220
+ landmarks[32]: _nameless.1ac.4081.5160
+ landmarks[33]: _nameless.1ac.4081.58a0
+ landmarks[34]: _nameless.1ac.4081.58e0
+ landmarks[35]: _nameless.1ac.4081.6de0
+ landmarks[36]: _nameless.1ac.4081.6a20
+ landmarks[37]: _nameless.1ac.4081.6a60
+ landmarks[38]: _nameless.1ac.4081.6d20
+ landmarks[39]: _nameless.1ac.4081.6c60
+ landmarks[40]: _nameless.1ac.4081.6b20
+ landmarks[41]: _nameless.1ac.4081.5f60
+ landmarks[42]: _nameless.1ac.4081.6160
+ landmarks[43]: _nameless.1ac.4081.62e0
+ landmarks[44]: _nameless.1ac.4081.6260
+ landmarks[45]: _nameless.1ac.4081.6620
+ landmarks[46]: _nameless.1ac.4081.6760
+ landmarks[47]: _nameless.1ac.4790.a680
+ landmarks[48]: _nameless.1ac.4790.a5c0
+ landmarks[49]: _nameless.1ac.4790.a640
+ landmarks[50]: _nameless.1ac.4790.a700
+ landmarks[51]: _nameless.1ac.4790.a1c0
+}
+
+album_landmarks_data : _nameless.1ac.4790.8360 {
+ landmark_id: brussels
+ screenshot_file: "ets2_20240404_214011_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.89e0 {
+ landmark_id: frankfurt
+ screenshot_file: "ets2_20240409_221912_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.83a0 {
+ landmark_id: strasbourg
+ screenshot_file: "ets2_20240409_223312_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.8660 {
+ landmark_id: amsterdam
+ screenshot_file: "ets2_20240420_212419_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.85e0 {
+ landmark_id: statebank
+ screenshot_file: "ets2_20240420_215846_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.8960 {
+ landmark_id: stuttgart
+ screenshot_file: "ets2_20240620_001406_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.8b60 {
+ landmark_id: stut_theater
+ screenshot_file: "ets2_20240620_002012_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.8a60 {
+ landmark_id: paulklee
+ screenshot_file: "ets2_20240620_215331_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.83e0 {
+ landmark_id: cernglobe
+ screenshot_file: "ets2_20240620_222502_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.8560 {
+ landmark_id: museumlyon
+ screenshot_file: "ets2_20240620_225027_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.86a0 {
+ landmark_id: marseille
+ screenshot_file: "ets2_20240620_231345_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.86e0 {
+ landmark_id: moleant
+ screenshot_file: "ets2_20240621_203619_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.89a0 {
+ landmark_id: hannover
+ screenshot_file: "ets2_20240622_232638_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.8720 {
+ landmark_id: berlin
+ screenshot_file: "ets2_20240623_160923_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.87a0 {
+ landmark_id: brno
+ screenshot_file: "ets2_20240623_174214_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.7320 {
+ landmark_id: prague
+ screenshot_file: "ets2_20240623_175358_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.73e0 {
+ landmark_id: clermont
+ screenshot_file: "ets2_20240623_231359_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.7420 {
+ landmark_id: reggioem
+ screenshot_file: "ets2_20240624_173011_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.7460 {
+ landmark_id: munchen
+ screenshot_file: "ets2_20240625_193948_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.74a0 {
+ landmark_id: melk
+ screenshot_file: "ets2_20240625_200249_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.74e0 {
+ landmark_id: budapest
+ screenshot_file: "ets2_20240625_204037_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.7660 {
+ landmark_id: welzenegg
+ screenshot_file: "ets2_20240625_213807_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.78a0 {
+ landmark_id: sassari
+ screenshot_file: "ets2_20240627_195728_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.7760 {
+ landmark_id: palermo
+ screenshot_file: "ets2_20240627_205237_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.78e0 {
+ landmark_id: bastia
+ screenshot_file: "ets2_20240627_215636_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.8920 {
+ landmark_id: bonifacio
+ screenshot_file: "ets2_20240627_221306_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.82a0 {
+ landmark_id: brancaccio
+ screenshot_file: "ets2_20240628_234543_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.7f60 {
+ landmark_id: stadiumnice
+ screenshot_file: "ets2_20240629_223915_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.8120 {
+ landmark_id: pernickel
+ screenshot_file: "ets2_20241018_190738_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.8b20 {
+ landmark_id: toupin
+ screenshot_file: "ets2_20241019_002839_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.87a0 {
+ landmark_id: favazzina
+ screenshot_file: "ets2_20241024_194759_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.8220 {
+ landmark_id: dusseldome
+ screenshot_file: "ets2_20241024_213217_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.5160 {
+ landmark_id: malmo
+ screenshot_file: "ets2_20241024_231748_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.58a0 {
+ landmark_id: igelsta
+ screenshot_file: "ets2_20241024_234950_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.58e0 {
+ landmark_id: vesuv
+ screenshot_file: "ets2_20241025_001841_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6de0 {
+ landmark_id: rostock
+ screenshot_file: "ets2_20241025_173533_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6a20 {
+ landmark_id: gdansk
+ screenshot_file: "ets2_20241025_192003_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6a60 {
+ landmark_id: bystrica
+ screenshot_file: "ets2_20241025_212823_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6d20 {
+ landmark_id: hamburg
+ screenshot_file: "ets2_20241027_183730_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6c60 {
+ landmark_id: storebael
+ screenshot_file: "ets2_20241028_185317_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6b20 {
+ landmark_id: lillebael
+ screenshot_file: "ets2_20241028_190353_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.5f60 {
+ landmark_id: kiel
+ screenshot_file: "ets2_20241028_205235_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6160 {
+ landmark_id: florianturm
+ screenshot_file: "ets2_20241028_213936_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.62e0 {
+ landmark_id: kolnmesse
+ screenshot_file: "ets2_20241029_210800_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6260 {
+ landmark_id: carcassonne
+ screenshot_file: "ets2_20241109_220124_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6620 {
+ landmark_id: peyrat
+ screenshot_file: "ets2_20241109_223415_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4081.6760 {
+ landmark_id: paris
+ screenshot_file: "ets2_20241113_213046_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.a680 {
+ landmark_id: varodd
+ screenshot_file: "ets2_20241121_151153_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.a5c0 {
+ landmark_id: oslo
+ screenshot_file: "ets2_20241121_224446_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.a640 {
+ landmark_id: fedafjord
+ screenshot_file: "ets2_20241123_185847_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.a700 {
+ landmark_id: upsala
+ screenshot_file: "ets2_20241123_215012_00.png"
+}
+
+album_landmarks_data : _nameless.1ac.4790.a1c0 {
+ landmark_id: scandic
+ screenshot_file: "ets2_20241123_215155_00.png"
+}
+
+}
